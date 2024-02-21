@@ -1,5 +1,5 @@
 CmaOptimizer {
-	signature_prefix = NormalSeatSTW_reducedVAS_DATE_TIME
+	signature_prefix = NormalSeatSTW_UnloadKneeStep_DATE_TIME
 	max_errors = 10
 	
 	## SELECT THE RIGHT INIT FILE FOR THE CHOSEN CONDITION		
@@ -22,7 +22,7 @@ CmaOptimizer {
 			signature_postfix = HFD
 			
 			
-			model_file = data/H1120_STW_normalseat.hfd		
+			model_file = data/H1120_STW_normalseat_10MPa.hfd				
 			
 			# Init posture	
 			state_init_file = data/BasedOnLessDeg_P1242_C101_InitState_adj4_SH_044_Jan22.zml	
