@@ -8,3 +8,9 @@ The ‘Timed Up and Go' test (TUG) is a widely used clinical tool for assessing 
 https://doi.org/10.1101/2023.12.19.23300202
 
 
+
+https://github.com/BODIES-Lab-TU-Delft/STW-case-study-unilateral-pain/assets/18257841/b1b75106-6e54-4dd0-a010-7e28bf1f6268
+
+
+
+
