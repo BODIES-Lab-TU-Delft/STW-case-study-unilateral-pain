@@ -13,4 +13,10 @@ https://github.com/BODIES-Lab-TU-Delft/STW-case-study-unilateral-pain/assets/182
 
 
 
+https://github.com/BODIES-Lab-TU-Delft/STW-case-study-unilateral-pain/assets/18257841/cf7928bb-fb8e-433b-a27a-ff093185fb13
+
+
+
+
+
 
